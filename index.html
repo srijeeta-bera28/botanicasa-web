@@ -6,7 +6,18 @@
     <title>Botanicasa</title>
 
     <!-- Tailwind -->
-    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script> -->
+<!-- Tailwind CDN for production (recommended for quick fix) -->
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        colors: { primary: '#016339' }
+      }
+    }
+  }
+</script>
 
     <!-- CSS -->
     <!-- <link rel="stylesheet" href="src/style.css" /> -->
