@@ -1,0 +1,317 @@
+{
+  "data": [
+    {
+      "id": 101,
+      "common_name": "Snake Plant",
+      "scientific_name": ["Sansevieria trifasciata"],
+      "watering": "Every 2-3 days",
+      "sunlight": ["low", "indirect"],
+      "indoor": 1,
+      "description": "Snake Plant, also known as Sansevieria, is a hardy indoor plant known for its upright, sword-like leaves and air-purifying qualities.",
+      "additional_information": "It tolerates low light and irregular watering, making it perfect for beginners. Great for improving indoor air quality.",
+      "default_image": {
+        "original_url": "https://nurserylive.com/cdn/shop/products/nurserylive-plants-sansevieria-trifasciata-black-gold-snake-plant-succulent-plant-16969296773260_600x600.jpg?v=1634228027"
+      },
+      "other_images": "",
+      "price": "₹299"
+    },
+    {
+      "id": 102,
+      "common_name": "Peace Lily",
+      "scientific_name": ["Spathiphyllum"],
+      "watering": "Every 3-4 days",
+      "sunlight": ["indirect"],
+      "indoor": 1,
+      "description": "Peace Lily is an elegant indoor plant with glossy leaves and white spathe-like flowers that thrive in low-light conditions.",
+      "additional_information": "It's an excellent air purifier and signals when it needs water by drooping its leaves slightly.",
+      "default_image": {
+        "original_url": "https://nurserylive.com/cdn/shop/products/nurserylive-peace-lily-spathiphyllum-plant-in-4-inch-10-cm-black-pot-230563_600x600.jpg?v=1751715660"
+      },
+      "other_images": [
+        "https://nurserylive.com/cdn/shop/products/nurserylive-g-plants-peace-lily-spathiphyllum-plant-887951_600x600.jpg?v=1751715640",
+        "https://nurserylive.com/cdn/shop/products/nurserylive-plants-peace-lily-spathiphyllum-plant-5-432492_540x720.jpg?v=1751715640"
+      ],
+      "price": "₹349"
+    },
+    {
+      "id": 103,
+      "common_name": "Areca Palm",
+      "scientific_name": ["Dypsis lutescens"],
+      "watering": "Every 10-12 days",
+      "sunlight": ["bright", "indirect"],
+      "indoor": 1,
+      "description": "Areca Palm adds a tropical vibe to interiors with its feathery fronds and bushy appearance.",
+      "additional_information": "It helps humidify air and thrives in bright, indirect sunlight with moderate watering.",
+      "default_image": {
+        "original_url": "https://nurserylive.com/cdn/shop/products/nurserylive-g-areca-palm-small-plant_600x600.jpg?v=1751699594"
+      },
+      "other_images": [
+        "https://nurserylive.com/cdn/shop/products/nurserylive-areca-palm-small-plant-in-4-inch-10-cm-black-pot-172105_600x600.jpg?v=1751699594",
+        "https://nurserylive.com/cdn/shop/products/nurserylive-areca-palm-small-plant-4-771235_540x720.jpg?v=1751699594"
+      ],
+      "price": "₹399"
+    },
+    {
+      "id": 104,
+      "common_name": "Spider Plant",
+      "scientific_name": ["Chlorophytum comosum"],
+      "watering": "Every 2-3 days",
+      "sunlight": ["indirect"],
+      "indoor": 1,
+      "description": "Spider Plant is known for its arching green and white striped leaves and baby plantlets or 'spiders' hanging from long stems.",
+      "additional_information": "It's easy to propagate, filters toxins from air, and adapts well to varied indoor conditions.",
+      "default_image": {
+        "original_url": "https://nurserylive.com/cdn/shop/products/nurserylive-plants-chlorophytum-spider-plant-hanging-basket-plant-16968816885900_600x600.jpg?v=1634216115"
+      },
+      "other_images": [
+        "http://nurserylive.com/cdn/shop/products/nurserylive-plants-chlorophytum-spider-plant-hanging-basket-plant-16968816918668_600x600.jpg?v=1634216111"
+      ],
+      "price": "₹279"
+    },
+    {
+      "id": 105,
+      "common_name": "ZZ Plant",
+      "scientific_name": ["Zamioculcas zamiifolia"],
+      "watering": "Every 1-2 days",
+      "sunlight": ["low", "indirect"],
+      "indoor": 1,
+      "description": "The ZZ Plant is a stylish, low-maintenance indoor plant with shiny, dark green leaves.",
+      "additional_information": "It tolerates low light and infrequent watering, ideal for offices or low-care households.",
+      "default_image": {
+        "original_url": "https://nurserylive.com/cdn/shop/files/zz-plant_600x600.jpg?v=1751753779"
+      },
+      "other_images": [
+        "https://nurserylive.com/cdn/shop/files/zz-plant_600x600.jpg?v=1751753779",
+        "https://nurserylive.com/cdn/shop/products/nurserylive-zamioculcas-zamiifolia-zz-plant-plant-4-873655_540x720.jpg?v=1751717157",
+        "https://nurserylive.com/cdn/shop/products/nurserylive-zamioculcas-zamiifolia-zz-plant-plant-1-455178_540x720.jpg?v=1751717157"
+      ],
+      "price": "₹379"
+    },
+    {
+      "id": 106,
+      "common_name": "Pothos",
+      "scientific_name": ["Epipremnum aureum"],
+      "watering": "Every 1-2 days",
+      "sunlight": ["low", "indirect"],
+      "indoor": 1,
+      "description": "Pothos is a fast-growing, trailing vine known for its heart-shaped leaves and ease of care.",
+      "additional_information": "Effective air purifier and thrives in low light conditions; ideal for hanging baskets or shelves.",
+      "default_image": {
+        "original_url": "https://nurserylive.com/cdn/shop/products/nurserylive-air-purifier-money-plant_600x600.jpg?v=1634212709pothos.jpg"
+      },
+      "other_images": [
+        "https://nurserylive.com/cdn/shop/products/nurserylive-g-plants-money-plant-golden-scindapsus-golden-plant-998668_600x600.jpg?v=1751715302",
+        "https://nurserylive.com/cdn/shop/products/nurserylive-plants-money-plant-golden-scindapsus-golden-plant-4-679325_540x720.jpg?v=1751715302"
+      ],
+      "price": "₹249"
+    },
+    {
+      "id": 107,
+      "common_name": "Rubber Plant",
+      "scientific_name": ["Ficus elastica"],
+      "watering": "Every 3-4 days",
+      "sunlight": ["bright", "indirect"],
+      "indoor": 1,
+      "description": "Rubber Plant is a popular indoor tree with large, glossy leaves that adds bold greenery to interiors.",
+      "additional_information": "Can grow quite tall indoors; requires regular pruning and prefers bright, filtered light.",
+      "default_image": {
+        "original_url": "https://nurserylive.com/cdn/shop/products/nurserylive-rubber-tree-rubber-plant-ficus-elastica-small-plant-819163_600x600.jpg?v=1751717872"
+      },
+      "other_images": [
+        "https://nurserylive.com/cdn/shop/products/nurserylive-plants-rubber-tree-rubber-plant-ficus-elastica-small-plant-16969285238924_600x600.jpg?v=1751717854",
+        "https://nurserylive.com/cdn/shop/products/nurserylive-rubber-tree-rubber-plant-ficus-elastica-small-plant-2-914211_540x720.jpg?v=1751717854"
+      ],
+      "price": "₹429"
+    },
+    {
+      "id": 108,
+      "common_name": "Philodendron",
+      "scientific_name": ["Philodendron"],
+      "watering": "Every 3-5 days",
+      "sunlight": ["indirect"],
+      "indoor": 1,
+      "description": "Philodendrons are versatile houseplants with attractive foliage and low maintenance needs.",
+      "additional_information": "Adaptable to various indoor conditions and ideal for desktops, hanging pots, or floor displays.",
+      "default_image": {
+        "original_url": "https://nurserylive.com/cdn/shop/products/nurserylive-g-philodenron-birkin-plant-715944_600x600.jpg?v=1679750878"
+      },
+      "other_images": [
+        "https://nurserylive.com/cdn/shop/products/nurserylive-philodenron-birkin-plant-1-490309_540x720.jpg?v=1679750878"
+      ],
+      "price": "₹349"
+    },
+    {
+      "id": 109,
+      "common_name": "Chinese Evergreen",
+      "scientific_name": ["Aglaonema"],
+      "watering": "Every 1-2 days",
+      "sunlight": ["low", "indirect"],
+      "indoor": 1,
+      "description": "Chinese Evergreens are durable plants with variegated foliage that thrive in low light.",
+      "additional_information": "Perfect for offices and shaded rooms; air-purifying and tolerant of occasional neglect.",
+      "default_image": {
+        "original_url": "https://nurserylive.com/cdn/shop/products/nurserylive-aglaonema-costatum-chinese-evergreen-green-plant-in-4-inch-10-cm-black-pot-632103_600x600.jpg?v=1685017884"
+      },
+      "other_images": [
+        "https://nurserylive.com/cdn/shop/products/nurserylive-aglaonema-costatum-chinese-evergreen-green-plant-4_540x720.jpg?v=1662362932",
+        "http://nurserylive.com/cdn/shop/products/nurserylive-aglaonema-costatum-chinese-evergreen-green-plant-2-906489_540x720.jpg?v=1679749013"
+      ],
+      "price": "₹319"
+    },
+    {
+      "id": 110,
+      "common_name": "Calathea",
+      "scientific_name": ["Calathea"],
+      "watering": "Every 2-4 days",
+      "sunlight": ["indirect"],
+      "indoor": 1,
+      "description": "Calathea is known for its beautifully patterned leaves that fold up at night.",
+      "additional_information": "Needs consistent humidity and prefers filtered light to prevent leaf curling or browning.",
+      "default_image": {
+        "original_url": "https://theaffordableorganicstore.com/cdn/shop/files/Calathea-Never-Never-Plant-1.webp?v=1744629505&width=550"
+      },
+      "other_images": [
+        "https://theaffordableorganicstore.com/cdn/shop/files/Calathea-Never-Never-Plant-3.webp?v=1744629505&width=550",
+        "https://theaffordableorganicstore.com/cdn/shop/files/Calathea-Never-Never-Plant-2.webp?v=1744629504&width=550"
+      ],
+      "price": "₹399"
+    },    
+    {
+      "id": 111,
+      "common_name": "Rose",
+      "scientific_name": ["Rosa"],
+      "watering": "Every 2-4 days",
+      "sunlight": ["full"],
+      "indoor": 0,
+      "default_image": {
+        "original_url": "https://nurserylive.com/cdn/shop/files/miniature-rose-pink_356782a6-f1a0-41ee-9587-6603f74c1589_600x600.jpg?v=1751758758"
+      },
+      "price": "₹199"
+    },
+    {
+      "id": 112,
+      "common_name": "Marigold",
+      "scientific_name": ["Tagetes"],
+      "watering": "Every 7-10 days",
+      "sunlight": ["full"],
+      "indoor": 0,
+      "default_image": {
+        "original_url": "https://nurserylive.com/cdn/shop/products/nurserylive-g-african-marigold-yellow-plant-398336_600x600.jpg?v=1679749016"
+      },
+      "other_images": [
+        "https://nurserylive.com/cdn/shop/products/nurserylive-african-marigold-yellow-plant-4-478273_540x720.jpg?v=1679749016",
+        "https://nurserylive.com/cdn/shop/products/nurserylive-plants-african-marigold-yellow-plant-1-908475_540x720.jpg?v=1679749016"
+      ],
+      "price": "₹159"
+    },
+    {
+      "id": 113,
+      "common_name": "Lavender",
+      "scientific_name": ["Lavandula"],
+      "watering": "Every 1-3 days",
+      "sunlight": ["full"],
+      "indoor": 0,
+      "default_image": {
+        "original_url": "https://nurserylive.com/cdn/shop/products/nurserylive-g-cuphea-hyssopifolia-lavender-plant_600x600.jpg?v=1634217256"
+      },
+      "other_images": [
+        "https://nurserylive.com/cdn/shop/products/nurserylive-cuphea-hyssopifolia-lavender-plant-3_540x720.jpg?v=1634217245",
+        "https://nurserylive.com/cdn/shop/products/nurserylive-cuphea-hyssopifolia-lavender-plant-4_540x720.jpg?v=1634217243"
+      ],
+      "price": "₹229"
+    },
+    {
+      "id": 114,
+      "common_name": "Hibiscus",
+      "scientific_name": ["Hibiscus rosa-sinensis"],
+      "watering": "Every 6-8 days",
+      "sunlight": ["full"],
+      "indoor": 0,
+      "default_image": {
+        "original_url": "https://nurserylive.com/cdn/shop/files/hibiscus-red_e19e55fb-6ddf-41f1-9bbd-58e16ccfae08_646x646.jpg?v=1751755422"
+      },
+      "other_images": [
+        "https://nurserylive.com/cdn/shop/products/nurserylive-hibiscus-gudhal-flower-red-plant-1-749151_540x720.jpg?v=1751707084",
+        "https://nurserylive.com/cdn/shop/products/nurserylive-hibiscus-gudhal-flower-red-plant-4-251455_540x720.jpg?v=1751707084"
+      ],
+      "price": "₹269"
+    },
+    {
+      "id": 115,
+      "common_name": "Sunflower",
+      "scientific_name": ["Helianthus"],
+      "watering": "Every 10-12 days",
+      "sunlight": ["full"],
+      "indoor": 0,
+      "default_image": {
+        "original_url": "https://nurserylive.com/cdn/shop/products/nurserylive-seeds-sunflower-russian-giant-desi-flower-seeds-16969358606476_600x600.jpg?v=1634204992"
+      },
+      "other_images": [],
+      "price": "₹189"
+    },
+    {
+      "id": 116,
+      "common_name": "Tulip",
+      "scientific_name": ["Tulipa"],
+      "watering": "Every 2-4 days",
+      "sunlight": ["full"],
+      "indoor": 0,
+      "default_image": {
+        "original_url": "https://nurserylive.com/cdn/shop/products/nurserylive-g-tulip-strong-gold-flower-bulbs-156548_600x600.jpg?v=1679751841"
+      },
+      "price": "₹249"
+    },
+    {
+      "id": 117,
+      "common_name": "Petunia",
+      "scientific_name": ["Petunia"],
+      "watering": "Every 4-6 days",
+      "sunlight": ["full"],
+      "indoor": 0,
+      "default_image": {
+        "original_url": "https://nurserylive.com/cdn/shop/files/petunia_600x600.jpg?v=1751757433"
+      },
+      "price": "₹169"
+    },
+    {
+      "id": 118,
+      "common_name": "Daisy",
+      "scientific_name": ["Bellis perennis"],
+      "watering": "Every 1-2 days",
+      "sunlight": ["full"],
+      "indoor": 0,
+      "default_image": {
+        "original_url": "https://www.fnp.com//images/pr/l/v20240711175852/summer-gerbera-bloom_1.jpg"
+      },
+      "other_images": ["https://www.fnp.com//images/pr/l/v20240711175853/summer-gerbera-bloom_3.jpg","https://www.fnp.com//images/pr/l/v20240711175853/summer-gerbera-bloom_4.jpg"],
+      "price": "₹149"
+    },
+    {
+      "id": 119,
+      "common_name": "Geranium",
+      "scientific_name": ["Pelargonium"],
+      "watering": "Every 2-4 days",
+      "sunlight": ["full"],
+      "indoor": 0,
+      "default_image": {
+        "original_url": "https://nurserylive.com/cdn/shop/products/nurserylive-g-geranium-pink-plant-597504_600x600.jpg?v=1679750117"
+      },
+      "other_images": ["https://nurserylive.com/cdn/shop/products/nurserylive-geranium-pink-plant-3_34b22523-97cb-4113-a062-7bf6fd80692f-360985_540x720.jpg?v=1679750117","https://nurserylive.com/cdn/shop/products/nurserylive-geranium-pink-plant-4-251361_540x720.jpg?v=1679750117"],
+      "price": "₹189"
+    },
+    {
+      "id": 120,
+      "common_name": "Zinnia",
+      "scientific_name": ["Zinnia"],
+      "watering": "Every 7-8 days",
+      "sunlight": ["full"],
+      "indoor": 0,
+      "default_image": {
+        "original_url": "https://organicbazar.net/cdn/shop/products/Untitled-design-2022-06-18T163449.797.jpg?v=1694169090"
+      },
+      "other_images": ["https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSgKzY4MSTJY4UyXrKnoZTE_ExvP6ue8bBHVUNkFBDYkY2uNZWcmL8sYQxQXcS4lKQfdRAF_Z4rKZgFUzQj7nzQmerznWwxR69IK61xheE"],
+      "price": "₹159"
+    }
+
+  ]
+}

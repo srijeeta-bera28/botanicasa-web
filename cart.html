@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link rel="stylesheet" href="style.css" />
+    <title>Botanicasa</title>
+  </head>
+  <body>
+ <header 
+      class="header bg-[color:var(--light-green)] relative w-full px-4 py-3 px-4 sm:px-6 lg:px-20 shadow-sm flex items-center justify-between h-25"
+    >
+      <nav class="nav">
+        <div class="flex space-x-6">
+          <a
+            href="/"
+            class="text-gray-700 hover:[color:var(--primary-color)] cormorant-semibold"
+            >Home</a
+          >
+          <a
+            href="#"
+            class="text-gray-700 hover:[color:var(--primary-color)] cormorant-semibold"
+            >About</a
+          >
+        <div class="nav-dropdown relative">
+  <a href="#" class="text-gray-700 hover:[color:var(--primary-color)] cormorant-semibold nav-toggle">
+    Product
+  </a>
+  <ul class="dropdown-menu absolute bg-white p-3 rounded-md shadow-sm">
+    <li>
+      <a href="indoor.html" class="text-gray-700 hover:[color:var(--primary-color)] cormorant-semibold">
+        Indoor Plants
+      </a>
+    </li>
+    <li>
+      <a href="#" class="text-gray-700 hover:[color:var(--primary-color)] cormorant-semibold">
+        Outdoor Plants
+      </a>
+    </li>
+  </ul>
+</div>
+
+        </div>
+      </nav>
+      <!-- Center: Logo -->
+      <div class="logo absolute left-1/2 transform -translate-x-1/2">
+        <img src="/logo.png" />
+      </div>
+      <a href="cart.html">
+        <button class="cart">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink"
+            width="31"
+            height="31"
+            viewBox="0 0 31 31"
+            fill="none"
+          >
+            <rect width="31" height="31" fill="url(#pattern0_3_2)" />
+            <defs>
+              <pattern
+                id="pattern0_3_2"
+                patternContentUnits="objectBoundingBox"
+                width="1"
+                height="1"
+              >
+                <use xlink:href="#image0_3_2" transform="scale(0.015625)" />
+              </pattern>
+              <image
+                id="image0_3_2"
+                width="64"
+                height="64"
+                preserveAspectRatio="none"
+                xlink:href="data:image/png;base64,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"
+              />
+            </defs>
+          </svg>
+
+          <span id="cart-count"></span>
+        </button>
+      </a>
+    </header>
+    <div class="px-4 py-10 sm:px-6 lg:px-20 flex gap-10">
+      <div class="cart-table-wrapper overflow-hidden w-[70%] h-[100%] rounded-xl border border-black">
+      <table class="cart-table table-auto w-full  border-separate [border-spacing:0] rounded-lg">
+        <thead id="cartThead">
+          <tr>
+            <th></th>
+            <th>Product</th>
+            <th>Price</th>
+            <th>Quantity</th>
+             <th>Subtotal</th>
+          </tr>
+        </thead>
+        <tbody id="cartTable"></tbody>
+        <!-- <tfoot id="totalPrice"></tfoot> -->
+      </table>
+      </div>
+      <div class="cart-totals-wrapper w-[30%] h-full rounded-xl border p-4 border-black">
+        <h4 class="text-green">Cart Total</h4>
+        <hr class="border-t border-gray-300 my-3">
+        <div class="">
+          <table class="w-full border-separate border-spacing-y-4">
+            <tbody>
+            <tr>
+              <td><p>Subtotal:</p></td>
+              <td><p id="subtotal"></p></td>
+            </tr>
+            <tr>
+              <td><p>Shipping:</p></td>
+              <td><p id="shipping"></p></td>
+            </tr>
+            <tr>
+              <td class="coupon-section" colspan="2">
+                <div class="flex flex-col gap-2">
+                    <div class="flex gap-2 justify-between">
+                      <input type="text" id="couponInput" class="border border-[var(--primary-color)] p-2 rounded w-full" placeholder="Enter coupon code" >
+                      <button id="apply-cupon" class="btn-global btn-small bg-[color:var(--primary-color)] text-white cormorant-bold py-2 px-10 rounded-md">Apply</button>
+                    </div>
+                     <small id="couponMessage" class="d-block"></small>
+                 </div>     
+              </td>
+            </tr>
+             <tr>
+              <td>Coupon Discount</td>
+              <td><p id="coupDisc"></p></td>
+              
+            </tr>
+            <tr>
+              <td colspan="2">
+                 <hr class="border-t border-gray-300">
+              </td>
+            </tr>
+            <tr>
+              <td>TOTAL</td>
+              <td><p id="totalAmount"></p></td>
+            </tr>
+            </tbody>
+            <tfoot>
+              <tr>
+                <td colspan="2">
+                 
+                      <button id="proceed-checkout" class="btn-global btn-small bg-[color:var(--primary-color)] w-full text-white cormorant-bold py-2 px-10 rounded-md">
+                        Proceed to Checkout
+                      </button>
+                  
+                </td>
+              </tr>
+            </tfoot>
+          </table> 
+        </div>
+      </div>
+      </div>
+
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
