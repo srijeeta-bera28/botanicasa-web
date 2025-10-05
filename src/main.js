@@ -47,7 +47,7 @@ function showPlantList(data, domElement) {
 async function fetchAPI() {
   try {
     // const response = await fetch(`https://perenual.com/api/v2/species-list?key=${apiKey}`);
-    const response = await fetch("/src/data/species-list.json");
+    const response = await fetch("/data/species-list.json");
     const result = await response.json();
     if(indoorPlantList){
         indoorPlantList.innerHTML="";
@@ -64,7 +64,7 @@ async function fetchAPI() {
 
 async function fetchIndoorOutdoorAPI(flag) {
   try {
-    const response = await fetch("/src/data/species-list.json");
+    const response = await fetch("/data/species-list.json");
     const result = await response.json();
     const filteredData = result.data.filter((plant) => plant.indoor === flag);
     indoorPlantList.innerHTML="";
@@ -82,7 +82,7 @@ async function fetchBothIndoorOutdoor() {
   //  const indoorData = await indoor.json();
   //  const outdoor = await fetch(`https://perenual.com/api/v2/species-list?key=${apiKey}&indoor=0`);
   //  const outdoorData = await outdoor.json();
-   const response = await fetch("/src/data/species-list.json");
+   const response = await fetch("/data/species-list.json");
     const result = await response.json();
      indoorPlantList.innerHTML = ""; 
     const bothData = result.data.filter((plant) => plant.indoor === 1 || plant.indoor === 0);
@@ -295,7 +295,7 @@ export async function renderCart() {
   }
 
   try {
-    const res = await fetch("/src/data/species-list.json");
+    const res = await fetch("/data/species-list.json");
     const result = await res.json();
     const productList = result.data;
 
