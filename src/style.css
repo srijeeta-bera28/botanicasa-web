@@ -12,7 +12,7 @@
   --text-color: #363636;
 }
 body{
-  overflow: auto;
+  overflow: auto !important;
 }
 
 .text-grey{
