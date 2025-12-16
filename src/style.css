@@ -11,6 +11,10 @@
   --light-green: rgba(1, 99, 57, 0.14);
   --text-color: #363636;
 }
+body{
+  overflow: auto;
+}
+
 .text-grey{
   color: var(--text-color);
 }
