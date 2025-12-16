@@ -317,7 +317,7 @@ export async function renderCart() {
       tr.dataset.id = item.id;
       tr.innerHTML = `
         <td>
-          <button class="remove-btn" data-id="${item.id}">&times;</button>
+          <button class="remove-btn cursor-pointer" data-id="${item.id}">&times;</button>
         </td>
         <td class="product-td"><img src="${imageUrl}" alt="${name}">
           <span class="plant-name">${name}</span></td>
